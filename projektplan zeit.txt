@@ -1,0 +1,10 @@
+UI 			3 Stunden
+Permissions 		5 Stunden
+Kontakte hinzufügen	6 Stunden
+Kontakte Kontextmenü	5 Stunden
+- Kontaktdaten ansehen	3 Stunden
+- Chat			2 Stunden
+Sms (mehrfach) senden	2 Stunden
+Fragments		2 Stunden
+Starten durch Schütteln	2 Stunden
+AsyncTask		2 Stunden
